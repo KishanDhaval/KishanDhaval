@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Kishan Prajapati</h1>
-<h3 align="center">A passionate full stack devloper from India</h3>
+<h1>Hi 👋, I'm Kishan Prajapati</h1>
+<h3 >A passionate full stack devloper from India</h3>
 
 - 🔭 I’m currently working on [DevPlatForm](https://devplatform-xrdz.onrender.com/)
 
