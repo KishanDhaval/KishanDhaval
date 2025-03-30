@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [DevPlatForm](https://devplatform-xrdz.onrender.com/)
 
-- 🌱 I’m currently learning **Advanced web technology**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [https://kishandhaval.github.io/kishan-portfolio/](https://kishandhaval.github.io/kishan-portfolio/)
 
