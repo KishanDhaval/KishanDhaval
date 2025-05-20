@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://kishandhaval.github.io/kishan-portfolio/](https://kishandhaval.github.io/kishan-portfolio/)
+- 👨‍💻 All of my projects are available at [https://kishandhaval.github.io/portfolio/](https://kishandhaval.github.io/portfolio/)
 
 - 💬 Ask me about **MERN , java ...**
 
