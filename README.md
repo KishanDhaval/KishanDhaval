@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Career Prep](https://career-prep-three.vercel.app/)
 
-- 🌱 I’m currently learning more about **Inngest**
+- 🌱 I’m currently learning more about *Inngest*
 
 - 👨‍💻 All of my projects are available at [https://kishandhaval.github.io/portfolio/](https://kishandhaval.github.io/portfolio/)
 
