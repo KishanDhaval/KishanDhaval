@@ -5,17 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kishandhaval" alt="kishandhaval" /></a> </p>
 
-- 🔭 I’m currently working on [NearByMarket]()
+- 🔭 I’m currently working on [Career Prep AI Tools]()
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning more about **Inngest**
 
 - 👨‍💻 All of my projects are available at [https://kishandhaval.github.io/portfolio/](https://kishandhaval.github.io/portfolio/)
 
 - 💬 Ask me about **MERN , java ...**
 
 - 📫 How to reach me **kmprajapati1910@gmail.com**
-
-- 📄 Know about my experiences [https://www.resumemate.io/resume/4xmKIHWHQHNWETP](https://www.resumemate.io/resume/4xmKIHWHQHNWETP)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
